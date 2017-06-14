@@ -60,6 +60,7 @@ public class CrimeFragment extends android.support.v4.app.Fragment {
                 //set the crime's solved property
                 mCrime.setSolved(isChecked);
             }
+
         });
         return v;
     }
