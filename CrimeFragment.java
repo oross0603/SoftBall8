@@ -17,6 +17,7 @@ public class CrimeFragment extends android.support.v4.app.Fragment {
     private Crime mCrime;
     private EditText mTitleField;
 
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
